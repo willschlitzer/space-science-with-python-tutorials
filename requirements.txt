@@ -1,0 +1,30 @@
+# SPICE
+spiceypy
+
+# Interactive Shell
+ipython
+ipywidgets
+tqdm
+
+# Jupyterlab
+jupyterlab
+
+# Numerics and Science
+numpy
+pandas
+scipy
+pingouin
+seaborn
+
+# Plotting
+matplotlib
+imageio
+
+# Rendering, GUI
+PyQt5
+visvis
+
+# Machine Learning
+scikit-learn
+tensorflow
+keras-tuner
