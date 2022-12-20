@@ -1,0 +1,11 @@
+\begintext
+
+    This meta file contains the relative paths to all needed SPICE kernels.
+
+\begindata
+
+KERNELS_TO_LOAD = (
+    '../kernels/spk/de432s.bsp',
+    '../kernels/lsk/naif0012.tls',
+    '../kernels/pck/pck00010.tpc'
+                  )
